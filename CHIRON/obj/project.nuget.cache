@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XYxEg8KDTPhxZhUydU6wtNsQnVOs69TA6qaO13kGk9dOCgspILWULyBfeSXJ+x+k8gEGUxchGUYZwOxyA8WJ9A==",
+  "dgSpecHash": "OSZXzk5VXLe/ylc7To374WoweK5dS3pMv6VSc1jjZABuhGDCE4bUSsJsPqvHXKR543jRHL+6+Lffmm8qj4ns1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\17168\\repos\\CHIRON\\CHIRON\\CHIRON.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\17168\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
